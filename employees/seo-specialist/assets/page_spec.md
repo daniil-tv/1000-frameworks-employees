@@ -1,0 +1,22 @@
+# SEO page spec
+
+- Project / Target URL / Existing URL or new:
+- Date / owner / status:
+- Search engine / geo / device / language:
+- Demand source and freshness:
+- Primary intent / related intents:
+- Actual query cluster (CSV reference):
+- SERP snapshot (JSONL file + timestamp):
+- Page type and competitor evidence:
+- What user can ACTUALLY do on page:
+- Product facts with sources / missing facts:
+- Unique benefit vs currently indexed alternatives:
+- Recommended H1, title, description (no arbitrary length promise):
+- Blocks and required evidence:
+- K (queries) / E (intent attributes) / excluded G (noise):
+- Internal links from / to:
+- Tech gate: index/canonical/status/JS/mobile/sitemap:
+- CTA and measurable conversion:
+- QA evidence:
+- Risks / open questions / approval:
+- Baseline and post-launch measurement:

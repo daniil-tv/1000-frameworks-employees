@@ -13,6 +13,12 @@ Evidence-led SEO research, technical audits, semantic and URL mapping, content b
 - [Открыть сотрудника](employees/seo-specialist/)
 - [Основная инструкция](employees/seo-specialist/SKILL.md)
 
+Установка для Codex:
+
+```bash
+npx skills add https://github.com/daniil-tv/1000-frameworks-employees/tree/main/employees/seo-specialist --skill seo-specialist -a codex -y
+```
+
 ## Principles
 
 - `draft` by default;

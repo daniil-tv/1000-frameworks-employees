@@ -1,0 +1,18 @@
+project_id: UNKNOWN
+site_url: UNKNOWN
+site_type: UNKNOWN
+language: ru
+engines: [google, yandex]
+regions: []
+devices: [desktop, mobile]
+business_goal: qualified_leads
+qualified_lead_definition: UNKNOWN
+business_facts_sources: []
+target_segments: []
+products_services: []
+known_competitors: []
+analytics: {gsc: false, yandex_webmaster: false, ga4: false, metrika: false, crm: false}
+credentials: "store ONLY in secret manager, not here"
+publication_policy: draft_only
+batch_size: 3
+approval_owner: UNKNOWN

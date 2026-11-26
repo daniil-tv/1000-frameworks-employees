@@ -19,6 +19,10 @@ Evidence-led SEO research, technical audits, semantic and URL mapping, content b
 npx skills add https://github.com/daniil-tv/1000-frameworks-employees/tree/main/employees/seo-specialist --skill seo-specialist -a codex -y
 ```
 
+### Copywriter
+
+Russian-language evidence-led writing and editing. [Skill and installation](employees/copywriter/README.md). Version 1.0.0 candidate; runtime qualification pending.
+
 ## Principles
 
 - `draft` by default;

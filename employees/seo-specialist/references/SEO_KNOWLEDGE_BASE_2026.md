@@ -263,7 +263,7 @@ Programmatic SEO допустимо при наличии **уникальных
 10. [Mike King / iPullRank — Google Algorithm Leak](https://ipullrank.com/google-algo-leak) — технический анализ утечки; наличие атрибута не доказывает его текущий вес.
 11. [US Department of Justice — Google trial exhibit](https://www.justice.gov/d9/2023-10/417254.pdf) — прямые свидетельства о некоторых поисковых механизмах; исторический контекст.
 12. [Search Engine Land — Yandex leaked factors](https://searchengineland.com/yandex-search-ranking-factors-leak-392323) — разбор утечки, устаревание и неполнота обязательны к учёту.
-13. [Максим Котенков — @seokotenkov](https://t.me/seokotenkov) — архив практических наблюдений и тестовых гипотез; локальный исходный архив см. `seo_kotenkov_knowledge_base.zip`.
+13. [Максим Котенков — @seokotenkov](https://t.me/seokotenkov) — архив практических наблюдений и тестовых гипотез. Сверяй отдельные утверждения с датированными первоисточниками.
 
 **Техническая проверка реализации:**
 14. [Google — Ranking systems](https://developers.google.com/search/docs/appearance/ranking-systems-guide) — публичная документация, не исчерпывающая модель ранжирования.

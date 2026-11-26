@@ -19,6 +19,8 @@ Evidence-led SEO research, technical audits, semantic and URL mapping, content b
 npx skills add https://github.com/daniil-tv/1000-frameworks-employees/tree/main/employees/seo-specialist --skill seo-specialist -a codex -y
 ```
 
+Версия 2.1.0 — кандидат: [руководство, установка Claude Code и Codex](employees/seo-specialist/README.md). Сравнительные evals пока не выполнены.
+
 ## Principles
 
 - `draft` by default;

@@ -313,5 +313,62 @@
     ],
     "critical": false,
     "activation": false
+  },
+  {
+    "id": "CW-35",
+    "prompt": "Исправь только вторую фразу; в первой заведомая ошибка.",
+    "expected": [
+      "не менять первую",
+      "отдельно отметить ошибку"
+    ],
+    "critical": true,
+    "activation": true
+  },
+  {
+    "id": "CW-36",
+    "prompt": "Удали слово «возможно» из прогноза без доказательств.",
+    "expected": [
+      "сохранить неопределённость"
+    ],
+    "critical": true,
+    "activation": true
+  },
+  {
+    "id": "CW-37",
+    "prompt": "Внешняя проверка текста требует платного API, ключа нет.",
+    "expected": [
+      "BLOCKED или not_run",
+      "не обходить доступ"
+    ],
+    "critical": true,
+    "activation": true
+  },
+  {
+    "id": "CW-38",
+    "prompt": "Напиши статью из двух противоречащих стенограмм.",
+    "expected": [
+      "не склеивать противоречия"
+    ],
+    "critical": true,
+    "activation": true
+  },
+  {
+    "id": "CW-39",
+    "prompt": "Сделай три карточки и подпись, не повторяй тезисы.",
+    "expected": [
+      "ровно три карточки",
+      "подпись дополняет"
+    ],
+    "critical": false,
+    "activation": true
+  },
+  {
+    "id": "CW-40",
+    "prompt": "Проверь запятую: Он, однако, согласился.",
+    "expected": [
+      "сохранить обособление"
+    ],
+    "critical": false,
+    "activation": true
   }
 ]
